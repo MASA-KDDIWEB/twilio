@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-  <Gather timeout="10" numDigits="1" action="http://hogehoge/twilio/usage_summary.php">
-  <Say language="ja-jp">請求金額の確認をします。今月のご利用料金は1を、
-                        先月のご利用料金は2を、終わるときは 9 を押しなさい。</Say>
-  </Gather>
-</Response>
